@@ -39,26 +39,26 @@
 
 ---
 
-## 📄 Noteworthy Projects
+## 💼 Projects
 
-- 📍 **Student Management System (C++)**  
-  ➤ Console-based file handling CRUD system.
+Here are a few highlights of my work:
 
-- 🏢 **CampusConnect (Django)**  
-  ➤ Smart student management portal with backend integration.
+- 🔹 **Trushna AI Assistant**  
+  A futuristic personal AI assistant with voice and text capabilities, theme switching, and app integration.
 
-- ❓ **Quiz App (Python)**  
-  ➤ Multiple subject quiz system with interactive UI.
+- 🔹 **CampusConnect**  
+  A Django-based student community platform designed to connect students, share announcements, and manage events.
 
-- 🛒 **Mini E-Commerce (Flask + MySQL)**  
-  ➤ Admin panel + Cart + Product CRUD.
+- 🔹 **Mini Portfolio Generator**  
+  A Firebase-powered full-stack app that generates animated, customizable, and downloadable portfolios.
 
-- 📃 **Complaint Form (Flask + HSQL)**  
-  ➤ Collects and stores user feedback and issues.
+- 🔹 **Student Management System (C++)**  
+  A console-based student records manager built using file handling and data structures.
 
-- 🛡️ **Complaint Management (Flask + MySQL)**  
-  ➤ Role-based login and complaint lifecycle tracking.
+- 🔹 **Quiz App (Python)**  
+  An interactive quiz system with GUI built using Tkinter and SQLite backend.
 
+> 🔍 **For more of my work, check out my [GitHub repositories](https://github.com/yogendra-27-bhange?tab=repositories).**
 ---
 
 ## 👤 Connect With Me
