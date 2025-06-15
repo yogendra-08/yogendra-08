@@ -1,7 +1,4 @@
 <!-- Profile Avatar -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yogendra-27-bhange/yogendra-27-bhange/main/assets/profile-cartoon.png" alt="Yogendra Bhange Cartoon Avatar" width="180" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Yogendra Bhange</h1>
 <h3 align="center">An IT student building real-world projects with code.</h3>
