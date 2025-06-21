@@ -86,6 +86,22 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yogendra-27-bhange&theme=onedark&row=1&margin-w=10&no-frame=true"/>
+</p>
+
+> These badges show my open-source activity and GitHub contributions.
+
+---
+
+### 🏢 My Organization
+
+💻 I'm also a contributor and owner at **[Error-labs7](https://github.com/Error-labs7)** — a developer community working on innovative projects and experiments.
+
+---
+
 ### 📬 Connect With Me
 
 - 📧 Email: [yogendrabhange@gmail.com](mailto:yogendrabhange@gmail.com)  
