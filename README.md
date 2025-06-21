@@ -88,9 +88,9 @@
 
 
 
-🎖️ GitHub Badge Stats (Quick View)
-<p align="center"> <img src="https://img.shields.io/badge/⭐_Stars-41-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/📁_Repos-24-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/🟣_Commits-66-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/👥_Followers-3-lightgrey?style=for-the-badge" /> <img src="https://img.shields.io/badge/🐞_Issues-1-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/🔃_Pull_Requests-1-orange?style=for-the-badge" /> </p>
-Earning milestones as I contribute and grow!
+🏆 GitHub Achievements
+<p align="center"> <img src="https://img.icons8.com/emoji/48/000000/star-emoji.png" width="22"/> <b>Stars</b><br/> <img src="https://img.shields.io/badge/41_Stars-FFD700?style=for-the-badge&logo=github&logoColor=black"/> </p> <p align="center"> <img src="https://img.icons8.com/color/48/000000/source-code.png" width="22"/> <b>Repositories</b><br/> <img src="https://img.shields.io/badge/24_Public_Repos-1E90FF?style=for-the-badge&logo=github"/> </p> <p align="center"> <img src="https://img.icons8.com/color/48/000000/git.png" width="22"/> <b>Commits</b><br/> <img src="https://img.shields.io/badge/66_Commits-AA00FF?style=for-the-badge&logo=git&logoColor=white"/> </p> <p align="center"> <img src="https://img.icons8.com/ios-filled/50/ffffff/group-foreground-selected.png" width="22"/> <b>Followers</b><br/> <img src="https://img.shields.io/badge/3_Followers-grey?style=for-the-badge&logo=github"/> </p> <p align="center"> <img src="https://img.icons8.com/color/48/bug.png" width="22"/> <b>Issues Opened</b><br/> <img src="https://img.shields.io/badge/1_Issue-E94B3C?style=for-the-badge&logo=github"/> </p> <p align="center"> <img src="https://img.icons8.com/color/48/merge-git.png" width="22"/> <b>Pull Requests</b><br/> <img src="https://img.shields.io/badge/1_Pull_Request-FFA500?style=for-the-badge&logo=github"/> </p>
+Earning milestones as I contribute and grow with 💻 & ❤️
 
 ---
 
