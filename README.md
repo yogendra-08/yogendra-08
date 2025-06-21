@@ -21,26 +21,64 @@
 
 ---
 
-### 🧰 Tech Stack
+## 💼 Tech Stack (Card Style)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" alt="Languages" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=c" width="40"/><br><sub><b>C</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="40"/><br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="40"/><br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ts" width="40"/><br><sub><b>TypeScript</b></sub>
+    </td>
+  </tr>
+</table>
 
-<h4 align="center">Languages</h4>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="40"/><br><sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="40"/><br><sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br><sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="40"/><br><sub><b>React</b></sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="Frontend" />
-</p>
-
-<h4 align="center">Frontend</h4>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,django,firebase,mysql,github,tkinter,netlify" alt="Backend & Tools" />
-</p>
-
-<h4 align="center">Backend & Tools</h4>
-
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=flask" width="40"/><br><sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=django" width="40"/><br><sub><b>Django</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40"/><br><sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="40"/><br><sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
