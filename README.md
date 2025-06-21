@@ -21,64 +21,51 @@
 
 ---
 
-## 💼 Tech Stack (Card Style)
+## 💼 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=c" width="40"/><br><sub><b>C</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="40"/><br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="40"/><br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ts" width="40"/><br><sub><b>TypeScript</b></sub>
-    </td>
-  </tr>
-</table>
+### 👨‍💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="C" /> C  
+  <br>
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++" /> C++  
+  <br>
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python" /> Python  
+  <br>
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" /> JavaScript  
+  <br>
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" /> TypeScript  
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="40"/><br><sub><b>HTML</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="40"/><br><sub><b>CSS</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br><sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="40"/><br><sub><b>React</b></sub>
-    </td>
-  </tr>
-</table>
+---
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=flask" width="40"/><br><sub><b>Flask</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=django" width="40"/><br><sub><b>Django</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=firebase" width="40"/><br><sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="40"/><br><sub><b>GitHub</b></sub>
-    </td>
-  </tr>
-</table>
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" /> HTML  
+  <br>
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" /> CSS  
+  <br>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" /> Tailwind CSS  
+  <br>
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" /> React  
+</p>
+
+---
+
+### 🔧 Backend / Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask" /> Flask  
+  <br>
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="Django" /> Django  
+  <br>
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase" /> Firebase  
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" /> MySQL  
+  <br>
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" /> GitHub  
+  <br>
+  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="Netlify" /> Netlify  
+</p>
+
 
 ---
 
