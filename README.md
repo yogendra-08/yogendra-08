@@ -86,13 +86,18 @@
 
 ---
 
+
+
 ### 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yogendra-27-bhange&theme=onedark&row=1&margin-w=10&no-frame=true"/>
-</p>
+- ⭐ 41 Stars → *"You are a Star"*
+- 🗃️ 24 Public Repos → *"High Repo Creator"*
+- 🔁 66 Commits → *"Middle Committer"*
+- 👥 3 Followers → *"First Friend"*
+- 🐞 1 Issue Opened → *"First Issue"*
+- 📦 1 Pull Request → *"First Pull"*
 
-> These badges show my open-source activity and GitHub contributions.
+> _Earning milestones as I contribute and grow!_
 
 ---
 
