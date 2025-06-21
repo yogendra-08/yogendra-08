@@ -46,7 +46,7 @@
   </tr>
 </table>
 
----
+
 
 ### 🎨 Frontend  
 <table>
@@ -66,7 +66,7 @@
   </tr>
 </table>
 
----
+
 
 ### 🔧 Backend / Tools  
 <table>
