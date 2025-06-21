@@ -21,29 +21,26 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
-**Languages**  
-![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" alt="Languages" />
+</p>
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+<h4 align="center">Languages</h4>
 
-**Backend / Tools**  
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Tkinter](https://img.shields.io/badge/Tkinter-grey?style=flat-square)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="Frontend" />
+</p>
+
+<h4 align="center">Frontend</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,django,firebase,mysql,github,tkinter,netlify" alt="Backend & Tools" />
+</p>
+
+<h4 align="center">Backend & Tools</h4>
+
 
 ---
 
