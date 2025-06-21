@@ -86,6 +86,23 @@
 
 ---
 
+### 📦 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogendra-27-bhange&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-27-bhange&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogendra-27-bhange&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+```md
+![Snake animation](https://github.com/yogendra-27-bhange/yogendra-27-bhange/blob/output/github-contribution-grid-snake.svg)
 
 
 🏆 GitHub Achievements
