@@ -88,16 +88,9 @@
 
 
 
-### 🏆 GitHub Achievements
-
-- ⭐ 41 Stars → *"You are a Star"*
-- 🗃️ 24 Public Repos → *"High Repo Creator"*
-- 🔁 66 Commits → *"Middle Committer"*
-- 👥 3 Followers → *"First Friend"*
-- 🐞 1 Issue Opened → *"First Issue"*
-- 📦 1 Pull Request → *"First Pull"*
-
-> _Earning milestones as I contribute and grow!_
+🎖️ GitHub Badge Stats (Quick View)
+<p align="center"> <img src="https://img.shields.io/badge/⭐_Stars-41-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/📁_Repos-24-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/🟣_Commits-66-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/👥_Followers-3-lightgrey?style=for-the-badge" /> <img src="https://img.shields.io/badge/🐞_Issues-1-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/🔃_Pull_Requests-1-orange?style=for-the-badge" /> </p>
+Earning milestones as I contribute and grow!
 
 ---
 
