@@ -23,7 +23,6 @@
 
 ## 💼 Tech Stack
 
----
 
 ### 👨‍💻 Languages  
 <table>
