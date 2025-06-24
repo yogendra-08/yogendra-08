@@ -157,9 +157,6 @@ Earning milestones as I contribute and grow with 💻 & ❤️
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="100" alt="Pull Shark" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="100" alt="Quickdraw" />
 </p>
-![Bug Hunter](https://img.shields.io/badge/Bug%20Hunter-Active-critical?style=for-the-badge&logo=bugatti)
-![Coffee Lover](https://img.shields.io/badge/Coffee-Fueled☕-brown?style=for-the-badge)
-![Night Coder](https://img.shields.io/badge/Night%20Coder🌙-Approved-purple?style=for-the-badge)
 
 <p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
 
