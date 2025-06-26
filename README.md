@@ -29,6 +29,16 @@
 
 <p align="left"> <a href="https://youtu.be/YMI_7_4ivP8" target="_blank"> <img src="https://img.youtube.com/vi/YMI_7_4ivP8/mqdefault.jpg" alt="Mini Portfolio Generator Video" width="320" /> </a> </p> <p align="left"><b>🔗 Watch Now:</b> <a href="https://youtu.be/YMI_7_4ivP8">https://youtu.be/YMI_7_4ivP8</a></p>
 
+<p align="center">
+  <a href="https://youtu.be/YMI_7_4ivP8" target="_blank">
+    <img width="420" src="https://img.youtube.com/vi/YMI_7_4ivP8/hqdefault.jpg" alt="Tkinter Calculator Tutorial Thumbnail" style="border-radius: 10px;">
+  </a>
+  <br/>
+  <b>🧮 Tkinter Calculator Tutorial – Python GUI Project</b><br/>
+  <i>Simple project using Python’s Tkinter library for basic operations</i>
+</p>
+
+
 ---
 
 ## 💼 Tech Stack
