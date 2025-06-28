@@ -169,19 +169,16 @@ Earning milestones as I contribute and grow with 💻 & ❤️
 💻 I'm also a contributor and owner at **[Error-labs7](https://github.com/Error-labs7)** — a developer community working on innovative projects and experiments.
 
 ---
+<!-- PROJECT ROW 1 -->
+| ![](https://via.placeholder.com/50?text=🧠)<br>**Pathfinder AI** | ![](https://via.placeholder.com/50?text=🏥)<br>**MediQueue** | ![](https://via.placeholder.com/50?text=🌐)<br>**EventPlanner** | ![](https://via.placeholder.com/50?text=🎓)<br>**CampusConnect** | ![](https://via.placeholder.com/50?text=⚙️)<br>**Portfolio Gen** |
+|:--:|:--:|:--:|:--:|:--:|
+| [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) |
 
-| 🚀 Project | 🔗 Live | 💾 Code |
-|-----------|---------|---------|
-| **Pathfinder AI**<br>Career suggestion using AI | [Live](#) | [Code](#) |
-| **MediQueue**<br>Hospital OPD booking system | [Live](#) | [Code](#) |
-| **EventPlanner AI**<br>Auto event page generator | [Live](#) | [Code](#) |
-| **CampusConnect**<br>Student dashboard + chat | [Live](#) | [Code](#) |
-| **Mini Portfolio Gen**<br>Form to animated site | [Live](#) | [Code](#) |
-| **Feedback Form**<br>Simple UI feedback system | [Live](#) | [Code](#) |
-| **E-Commerce Mini**<br>Cart, UI, and checkout | [Live](#) | [Code](#) |
-| **Trushna AI**<br>Voice assistant web+local | [Live](#) | [Code](#) |
-| **Quiz App**<br>MCQ test generator | [Live](#) | [Code](#) |
-| **Complaint System**<br>Departmental complaint manager | [Live](#) | [Code](#) |
+<!-- PROJECT ROW 2 -->
+| ![](https://via.placeholder.com/50?text=💬)<br>**Feedback Form** | ![](https://via.placeholder.com/50?text=🛒)<br>**E-Commerce Mini** | ![](https://via.placeholder.com/50?text=🤖)<br>**Trushna AI** | ![](https://via.placeholder.com/50?text=📝)<br>**Quiz App** | ![](https://via.placeholder.com/50?text=📮)<br>**Complaint System** |
+|:--:|:--:|:--:|:--:|:--:|
+| [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) |
+
 
 
 ---
