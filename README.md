@@ -159,18 +159,24 @@ Earning milestones as I contribute and grow with 💻 & ❤️
 </p>
 
 <p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
+---
+#### ⚡ Pathfinder AI – Career Guidance System [SIH1781]
+> 🎓 AI-based platform suggesting career paths using academic performance and skills.  
+> 🛠️ Tech: React, Tailwind CSS  
+[🔗 Live Demo](https://your-demo-link.com) &nbsp;&nbsp;|&nbsp;&nbsp; [📂 Source Code](https://github.com/your-repo)
+---
 
+#### ✅ MediQueue – OPD Appointment System [SIH1620]
+> 🏥 Real-time appointment booking, doctor allocation & dashboard for hospitals.  
+> 🛠️ Tech: HTML, CSS, JavaScript  
+[🔗 Live Demo](https://your-demo-link.com) &nbsp;&nbsp;|&nbsp;&nbsp; [📂 Source Code](https://github.com/your-repo)
+---
 
-### 🚀 Pathfinder AI – Career Guidance System
-An AI-powered system suggesting career paths based on academic performance.
-
-**Tech Stack:** React, Tailwind CSS  
-🔗 [Live Demo](https://your-demo-link.com) | 📂 [Source Code](https://github.com/your-repo)
-| 🧠 Project | 📌 Description | 🛠️ Tech | 🔗 Demo & Code |
-|-----------|----------------|---------|----------------|
-| **Pathfinder AI** | AI-based career guidance system | React, Tailwind | [Live](#) · [Code](#) |
-| **MediQueue** | OPD queue + appointment system | HTML, CSS, JS | [Live](#) · [Code](#) |
-| **EventPlanner AI** | AI-generated event pages | Next.js, OpenAI, Tailwind | [Live](#) · [Code](#) |
+#### 🌐 EventPlanner – AI-Powered Event Platform
+> 🪄 Generates event pages using AI descriptions. Fully responsive & modern UI.  
+> 🛠️ Tech: Next.js, OpenAI API, Tailwind CSS  
+[🔗 Live Demo](https://your-demo-link.com) &nbsp;&nbsp;|&nbsp;&nbsp; [📂 Source Code](https://github.com/your-repo)
+---
 
 
 
