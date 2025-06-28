@@ -169,15 +169,14 @@ Earning milestones as I contribute and grow with 💻 & ❤️
 💻 I'm also a contributor and owner at **[Error-labs7](https://github.com/Error-labs7)** — a developer community working on innovative projects and experiments.
 
 ---
-<!-- PROJECT ROW 1 -->
-| ![](https://via.placeholder.com/50?text=🧠)<br>**Pathfinder AI** | ![](https://via.placeholder.com/50?text=🏥)<br>**MediQueue** | ![](https://via.placeholder.com/50?text=🌐)<br>**EventPlanner** | ![](https://via.placeholder.com/50?text=🎓)<br>**CampusConnect** | ![](https://via.placeholder.com/50?text=⚙️)<br>**Portfolio Gen** |
-|:--:|:--:|:--:|:--:|:--:|
-| [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) |
+| [🧠 Pathfinder AI](https://your-live-link.com) <br> 
+[![Live](https://img.shields.io/badge/-Live-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.com) 
+[![Repo](https://img.shields.io/badge/-Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) 
+| [🏥 MediQueue](https://your-live-link.com) <br> 
+[![Live](https://img.shields.io/badge/-Live-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.com) 
+[![Repo](https://img.shields.io/badge/-Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) |
+|---|---|
 
-<!-- PROJECT ROW 2 -->
-| ![](https://via.placeholder.com/50?text=💬)<br>**Feedback Form** | ![](https://via.placeholder.com/50?text=🛒)<br>**E-Commerce Mini** | ![](https://via.placeholder.com/50?text=🤖)<br>**Trushna AI** | ![](https://via.placeholder.com/50?text=📝)<br>**Quiz App** | ![](https://via.placeholder.com/50?text=📮)<br>**Complaint System** |
-|:--:|:--:|:--:|:--:|:--:|
-| [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) | [![Live](https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel)](https://your-live-link.com) <br> [![Repo](https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) |
 
 
 
