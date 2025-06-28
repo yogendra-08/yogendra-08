@@ -170,6 +170,14 @@ Earning milestones as I contribute and grow with 💻 & ❤️
 
 ---
 
+| ⚡ Pathfinder AI – Career Guidance System (SIH1781) | ✅ MediQueue – OPD Appointment System (SIH1620) | 🌐 EventPlanner – AI-Powered Event Platform |
+|:--------------------------------------------------:|:----------------------------------------------:|:-------------------------------------------:|
+| 🎓 Career path suggestion based on academics & skills. | 🏥 Real-time OPD booking & doctor allocation. | 🪄 Auto-generates professional event pages. |
+| 🛠️ React, Tailwind CSS | 🛠️ HTML, CSS, JavaScript | 🛠️ Next.js, OpenAI API, Tailwind |
+| [🔗 Live Demo](#) <br> [📂 Source](#) | [🔗 Live Demo](#) <br> [📂 Source](#) | [🔗 Live Demo](#) <br> [📂 Source](#) |
+
+---
+
 ### 📬 Connect With Me
 
 - 📧 Email: [yogendrabhange@gmail.com](mailto:yogendrabhange@gmail.com)  
