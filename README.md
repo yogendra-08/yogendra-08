@@ -169,16 +169,6 @@ Earning milestones as I contribute and grow with 💻 & ❤️
 💻 I'm also a contributor and owner at **[Error-labs7](https://github.com/Error-labs7)** — a developer community working on innovative projects and experiments.
 
 ---
-| [🧠 Pathfinder AI](https://your-live-link.com) <br> 
-[![Live](https://img.shields.io/badge/-Live-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.com) 
-[![Repo](https://img.shields.io/badge/-Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) 
-| [🏥 MediQueue](https://your-live-link.com) <br> 
-[![Live](https://img.shields.io/badge/-Live-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.com) 
-[![Repo](https://img.shields.io/badge/-Repo-black?style=for-the-badge&logo=github)](https://github.com/your-repo) |
-|---|---|
-
-
-
 
 ---
 
