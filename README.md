@@ -160,6 +160,24 @@ Earning milestones as I contribute and grow with 💻 & ❤️
 
 <p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
 
+## 🚀 Live Deployed Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌍 <a href="https://saarthi-app.netlify.app/" target="_blank">Saarthi Accessibility App</a></h3>
+      <p>AI-powered inclusive map app built with Next.js & Firebase</p>
+      <a href="https://saarthi-app.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=netlify" />
+      </a>
+      <a href="https://github.com/yourgithub/saarthi" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
