@@ -170,11 +170,19 @@ Earning milestones as I contribute and grow with 💻 & ❤️
 
 ---
 
-| ⚡ Pathfinder AI – Career Guidance System (SIH1781) | ✅ MediQueue – OPD Appointment System (SIH1620) | 🌐 EventPlanner – AI-Powered Event Platform |
-|:--------------------------------------------------:|:----------------------------------------------:|:-------------------------------------------:|
-| 🎓 Career path suggestion based on academics & skills. | 🏥 Real-time OPD booking & doctor allocation. | 🪄 Auto-generates professional event pages. |
-| 🛠️ React, Tailwind CSS | 🛠️ HTML, CSS, JavaScript | 🛠️ Next.js, OpenAI API, Tailwind |
-| [🔗 Live Demo](#) <br> [📂 Source](#) | [🔗 Live Demo](#) <br> [📂 Source](#) | [🔗 Live Demo](#) <br> [📂 Source](#) |
+| 🚀 Project | 🔗 Live | 💾 Code |
+|-----------|---------|---------|
+| **Pathfinder AI**<br>Career suggestion using AI | [Live](#) | [Code](#) |
+| **MediQueue**<br>Hospital OPD booking system | [Live](#) | [Code](#) |
+| **EventPlanner AI**<br>Auto event page generator | [Live](#) | [Code](#) |
+| **CampusConnect**<br>Student dashboard + chat | [Live](#) | [Code](#) |
+| **Mini Portfolio Gen**<br>Form to animated site | [Live](#) | [Code](#) |
+| **Feedback Form**<br>Simple UI feedback system | [Live](#) | [Code](#) |
+| **E-Commerce Mini**<br>Cart, UI, and checkout | [Live](#) | [Code](#) |
+| **Trushna AI**<br>Voice assistant web+local | [Live](#) | [Code](#) |
+| **Quiz App**<br>MCQ test generator | [Live](#) | [Code](#) |
+| **Complaint System**<br>Departmental complaint manager | [Live](#) | [Code](#) |
+
 
 ---
 
