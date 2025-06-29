@@ -145,10 +145,8 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-27-bhange&theme=tokyonight" height="180"/>
 </p>
+
 ---
-
-
-
 
 ## 🏆 GitHub Achievements
 
@@ -205,8 +203,6 @@ _Earning milestones as I contribute and grow with 💻 & ❤️_
 ### 🏢 My Organization
 
 💻 I'm also a contributor and owner at **[Error-labs7](https://github.com/Error-labs7)** — a developer community working on innovative projects and experiments.
-
----
 
 ---
 
