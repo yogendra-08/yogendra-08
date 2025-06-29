@@ -138,6 +138,11 @@
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh7002&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh7002&theme=tokyonight" width="47%" />
+</p>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogendra-27-bhange&layout=compact&theme=tokyonight)
 
 ---
