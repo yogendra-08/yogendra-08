@@ -142,8 +142,7 @@
 ---
 ## 📊 Updated GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogendra-27-bhange&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-27-bhange&theme=tokyonight" height="180"/>
 </p>
 ---
