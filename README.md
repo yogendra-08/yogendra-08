@@ -1,5 +1,3 @@
-<div style="border: 3px solid #00ffff; border-radius: 15px; padding: 30px; margin: 10px; box-shadow: 0 0 15px #00ffff; background-color: #0d1117;">
-
 <!-- Profile Avatar -->
 
 <h1 align="center">Hi 👋, I'm Yogendra Bhange</h1>
@@ -220,7 +218,3 @@ _Earning milestones as I contribute and grow with 💻 & ❤️_
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>  
-
----
-
-</div>
