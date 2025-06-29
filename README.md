@@ -213,17 +213,6 @@ _Earning milestones as I contribute and grow with 💻 & ❤️_
 
 ---
 
-<details>
-<summary>🧠 Pathfinder AI</summary>
-
-- 🔗 Live: https://pathfinder-aiyy.netlify.app  
-- 💻 GitHub: [Repo](https://github.com/yogendra-27-bhange/Pathfinder-AI-sih1781)  
-- 📚 Tech: Python, Firebase, OpenAI  
-- 📌 Description: Career & Skill Mapping System
-
-</details>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
