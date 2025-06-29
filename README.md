@@ -102,34 +102,71 @@
 </table>
 ---
 
-### 🌟 Featured Projects
-
-> Some of the best work I've done so far:
-
-- 🧠 **[Pathfinder AI (SIH Project)](https://github.com/yogendra-27-bhange/Pathfinder-AI-sih1781)**  
-  Career guidance system using OpenAI & Firebase  
-  🌐 [Live Demo](https://pathfinder-aiyy.netlify.app/)
-
-- 🏥 **[MediQueue – OPD Manager](https://github.com/yogendra-27-bhange/mediqueue-sih1620-opd-management)**  
-  Smart hospital queue system with bed and appointment tracking  
-  🌐 [Live Demo](https://mediqueue-yy.netlify.app/)
-
-- 💡 **[EventPlanner AI](https://github.com/yogendra-27-bhange/eventplanner)**  
-  Auto-generates event content using OpenAI  
-  🌐 [Live Demo](https://eventplanner-yy.netlify.app/)
-
-- 🗣️ **[Trushna AI Assistant](https://github.com/yogendra-27-bhange/trushna_ai_assisant)**  
-  Voice + text-based assistant with Gemini API  
-  🌐 [Live Demo](https://trushnaai-ty.netlify.app/)
-
-- 🛒 **[Mini E-Commerce](https://github.com/yogendra-27-bhange/mini-ecommerce)**  
-  Flask + MySQL-based shopping site with cart and admin dashboard
-
-- 🏫 **[CampusConnect](https://github.com/yogendra-27-bhange/campusconnect)**  
-  Django app to manage students & courses
-
-- 📢 **[Complaint Manager](https://github.com/yogendra-27-bhange/complaint-management-system)**  
-  Flask app with role-based complaint tracking
+<table>
+  <thead>
+    <tr>
+      <th>🚀 Project</th>
+      <th>📝 Description</th>
+      <th>📦 Repo</th>
+      <th>🌐 Live Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Pathfinder AI</b></td>
+      <td>Career guidance system using OpenAI & Firebase</td>
+      <td><a href="https://github.com/yogendra-27-bhange/Pathfinder-AI-sih1781">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td><a href="https://pathfinder-aiyy.netlify.app/">
+        <img src="https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=netlify" /></a></td>
+    </tr>
+    <tr>
+      <td><b>MediQueue – OPD Manager</b></td>
+      <td>Smart hospital queue system with bed & appointment tracking</td>
+      <td><a href="https://github.com/yogendra-27-bhange/mediqueue-sih1620-opd-management">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td><a href="https://mediqueue-yy.netlify.app/">
+        <img src="https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=netlify" /></a></td>
+    </tr>
+    <tr>
+      <td><b>EventPlanner AI</b></td>
+      <td>Auto-generates event content using OpenAI</td>
+      <td><a href="https://github.com/yogendra-27-bhange/eventplanner">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td><a href="https://eventplanner-yy.netlify.app/">
+        <img src="https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=netlify" /></a></td>
+    </tr>
+    <tr>
+      <td><b>Trushna AI Assistant</b></td>
+      <td>Voice + text-based assistant with Gemini API</td>
+      <td><a href="https://github.com/yogendra-27-bhange/trushna_ai_assisant">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td><a href="https://trushnaai-ty.netlify.app/">
+        <img src="https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=netlify" /></a></td>
+    </tr>
+    <tr>
+      <td><b>Mini E-Commerce</b></td>
+      <td>Flask + MySQL shopping site with cart & admin dashboard</td>
+      <td><a href="https://github.com/yogendra-27-bhange/mini-ecommerce">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td><b>CampusConnect</b></td>
+      <td>Django app to manage students & courses</td>
+      <td><a href="https://github.com/yogendra-27-bhange/campusconnect">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td><b>Complaint Manager</b></td>
+      <td>Flask app with role-based complaint tracking</td>
+      <td><a href="https://github.com/yogendra-27-bhange/complaint-management-system">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
 
 📂 More projects → [View All Repos](https://github.com/yogendra-27-bhange?tab=repositories)
 
