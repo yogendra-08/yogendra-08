@@ -217,4 +217,17 @@ _Earning milestones as I contribute and grow with 💻 & ❤️_
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+</p>  
+
+---
+
+---
+
+<a href="https://your-live-link.com" target="_blank" style="text-decoration: none;">
+  <div align="center" style="border: 2px solid #00ffff; border-radius: 15px; padding: 20px; width: 300px; transition: 0.3s; margin: 10px auto;">
+    <h3 style="color: #00ffff; transition: 0.3s;">🚀 Trushna AI Assistant</h3>
+    <p style="color: #aaa;">Voice + text assistant powered by Gemini API</p>
+    <img src="https://img.youtube.com/vi/YMI_7_4ivP8/0.jpg" width="250px" style="border-radius: 10px;"/>
+  </div>
+</a>
+
