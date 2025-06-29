@@ -1,3 +1,5 @@
+<div style="border: 3px solid #00ffff; border-radius: 15px; padding: 30px; margin: 10px; box-shadow: 0 0 15px #00ffff; background-color: #0d1117;">
+
 <!-- Profile Avatar -->
 
 <h1 align="center">Hi 👋, I'm Yogendra Bhange</h1>
@@ -221,13 +223,4 @@ _Earning milestones as I contribute and grow with 💻 & ❤️_
 
 ---
 
----
-
-<a href="https://your-live-link.com" target="_blank" style="text-decoration: none;">
-  <div align="center" style="border: 2px solid #00ffff; border-radius: 15px; padding: 20px; width: 300px; transition: 0.3s; margin: 10px auto;">
-    <h3 style="color: #00ffff; transition: 0.3s;">🚀 Trushna AI Assistant</h3>
-    <p style="color: #aaa;">Voice + text assistant powered by Gemini API</p>
-    <img src="https://img.youtube.com/vi/YMI_7_4ivP8/0.jpg" width="250px" style="border-radius: 10px;"/>
-  </div>
-</a>
-
+</div>
