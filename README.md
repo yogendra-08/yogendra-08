@@ -229,7 +229,9 @@ _Earning milestones as I contribute and grow with 💻 & ❤️_
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="100" alt="YOLO" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="100" alt="Pull Shark" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="100" alt="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" height="100" alt="Galaxy Brain" />
 </p>
+
 
 <p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
 
