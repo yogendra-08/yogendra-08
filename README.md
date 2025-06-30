@@ -11,21 +11,26 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <img src="./img08.jpg" width="100%" />
-    </td>
-    <td width="50%">
-      <h3>👩‍💻 About Me</h3>
-      <ul>
-        <li>🎓 Diploma student at <i>Government Polytechnic, Nagpur</i> (2023–26)</li>
-        <li>💡 Passionate about building real-world apps with <b>Python, C++, Flask & Frontend</b></li>
-        <li>🧠 Exploring <i>AI Assistants</i>, <i>Firebase</i>, and Full-Stack Development</li>
-        <li>🌱 Currently improving: <i>Next.js, TypeScript, Tailwind, and APIs</i></li>
-        <li>⚡ Fun fact: I love turning ideas into working code.</li>
-      </ul>
-    </td>
-  </tr>
+    <td>
+
+<!-- 📝 Your content goes here (left side) -->
+<h2>Hi there, I'm Yogendra</h2>
+<ul>
+  <li>🎓 Diploma IT | ML | Full Stack</li>
+  <li>🔭 Working on Trushna AI</li>
+  <li>🌐 GitHub: @yogendra-27-bhange</li>
+</ul>
+
+</td>
+<td align="center">
+
+<!-- 🖼️ Your image on right -->
+<img src="img08.jpg" width="250" alt="Animated Image" />
+
+</td>
+</tr>
 </table>
+
 
 
 
