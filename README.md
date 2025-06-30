@@ -9,9 +9,24 @@
   <a href="https://www.linkedin.com/in/yogendra-bhange"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="./img08.jpg" width="400" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./img08.jpg" width="100%" />
+    </td>
+    <td width="50%">
+      <h3>👩‍💻 About Me</h3>
+      <ul>
+        <li>🎓 Diploma student at <i>Government Polytechnic, Nagpur</i> (2023–26)</li>
+        <li>💡 Passionate about building real-world apps with <b>Python, C++, Flask & Frontend</b></li>
+        <li>🧠 Exploring <i>AI Assistants</i>, <i>Firebase</i>, and Full-Stack Development</li>
+        <li>🌱 Currently improving: <i>Next.js, TypeScript, Tailwind, and APIs</i></li>
+        <li>⚡ Fun fact: I love turning ideas into working code.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
