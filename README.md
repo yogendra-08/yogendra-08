@@ -185,40 +185,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/emoji/48/000000/star-emoji.png" width="30"/><br/>
-      <b>Stars</b><br/>
-      <img src="https://img.shields.io/badge/41-FFD700?style=for-the-badge&label=Stars&logo=github&logoColor=black"/>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/source-code.png" width="30"/><br/>
-      <b>Repositories</b><br/>
-      <img src="https://img.shields.io/badge/24-1E90FF?style=for-the-badge&label=Repos&logo=github"/>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/git.png" width="30"/><br/>
-      <b>Commits</b><br/>
-      <img src="https://img.shields.io/badge/66-AA00FF?style=for-the-badge&label=Commits&logo=git"/>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/bug.png" width="30"/><br/>
-      <b>Issues</b><br/>
-      <img src="https://img.shields.io/badge/1-E94B3C?style=for-the-badge&label=Issues&logo=github"/>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/merge-git.png" width="30"/><br/>
-      <b>Pull Requests</b><br/>
-      <img src="https://img.shields.io/badge/1-FFA500?style=for-the-badge&label=PRs&logo=github"/>
-    </td>
-  </tr>
-</table>
-
-_Earning milestones as I contribute and grow with 💻 & ❤️_
+![Uploading image.png…]()
 
 ---
 
