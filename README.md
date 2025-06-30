@@ -9,31 +9,6 @@
   <a href="https://www.linkedin.com/in/yogendra-bhange"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<table>
-  <tr>
-    <td>
-
-<!-- 📝 Your content goes here (left side) -->
-<h2>Hi there, I'm Yogendra</h2>
-<ul>
-  <li>🎓 Diploma IT | ML | Full Stack</li>
-  <li>🔭 Working on Trushna AI</li>
-  <li>🌐 GitHub: @yogendra-27-bhange</li>
-</ul>
-
-</td>
-<td align="center">
-
-<!-- 🖼️ Your image on right -->
-<img src="img08.jpg" width="250" alt="Animated Image" />
-
-</td>
-</tr>
-</table>
-
-
-
-
 ---
 
 ### 👨‍💻 About Me
