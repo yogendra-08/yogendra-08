@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/yogendra-27-bhange/yogendra-27-bhange/main/yogi08.png" alt="YOGI Banner" width="100%" />
 
-<!-- Profile Avatar -->
 
 <h1 align="center">Hi 👋, I'm Yogendra Bhange</h1>
 <h3 align="center">An IT student building real-world projects with code.</h3>
