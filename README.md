@@ -1,3 +1,5 @@
+<img src="https://yourdomain.com/banner.png" alt="Banner" width="100%"/>
+
 <!-- Profile Avatar -->
 
 <h1 align="center">Hi 👋, I'm Yogendra Bhange</h1>
