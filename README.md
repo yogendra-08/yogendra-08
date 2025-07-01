@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yogendra-27-bhange/yogendra-27-bhange/main/yogi08.png" alt="YOGI Banner" width="100%" height="300"/>
+<img src="https://raw.githubusercontent.com/yogendra-27-bhange/yogendra-27-bhange/main/yogi08.png" alt="YOGI Banner" width="100%" />
 
 <!-- Profile Avatar -->
 
