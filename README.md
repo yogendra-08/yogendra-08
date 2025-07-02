@@ -172,19 +172,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogendra-27-bhange&layout=compact&theme=tokyonight)
-
----
-## 📊 Updated GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-27-bhange&theme=tokyonight" height="180"/>
-</p>
-
----
-
 
 ## 🏆 GitHub Achievements
 
