@@ -9,10 +9,12 @@
   <a href="https://www.linkedin.com/in/yogendra-bhange"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+---
+
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
----
+
 
 ### 👨‍💻 About Me
 
