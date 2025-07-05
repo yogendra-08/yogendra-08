@@ -24,12 +24,9 @@
 - 🌱 Currently improving: *Next.js, TypeScript, Tailwind, and APIs*  
 - ⚡ Fun fact: I love turning ideas into working code.
 
+  ---
+
   
-
-
-
-
----
 
 ### 📺 Latest YouTube Video
 
