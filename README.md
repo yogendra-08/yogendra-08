@@ -244,5 +244,11 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="200" alt="pacman" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>  
