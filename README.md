@@ -243,14 +243,11 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 
 ---
 
-## 🖥️ Terminal Style Outro
+## 🏆 GitHub Trophies
 
-```
-$ echo "Thanks for visiting my profile! ⭐"
-Thanks for visiting my profile! ⭐
-$ exit
-```
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yogendra-27-bhange&theme=tokyonight&column=6&margin-w=10&margin-h=15" />
+</p>
 ---
 
 <p align="center">
