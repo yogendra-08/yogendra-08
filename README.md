@@ -221,7 +221,7 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 ### 🏆 GitHub Special Achievements
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" height="100" alt="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" height="60" alt="Pair Extraordinaire" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="100" alt="YOLO" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="100" alt="Pull Shark" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="100" alt="Quickdraw" />
