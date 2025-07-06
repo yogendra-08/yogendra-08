@@ -231,8 +231,6 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 
 <p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
 
-
-
 ---
 
 ### 🏢 My Organization
