@@ -243,12 +243,6 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yogendra-27-bhange&theme=tokyonight&column=6&margin-w=10&margin-h=15" />
-</p>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
