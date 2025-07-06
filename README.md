@@ -243,9 +243,13 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="200" alt="pacman" />
-</p>
+## 🖥️ Terminal Style Outro
+
+```
+$ echo "Thanks for visiting my profile! ⭐"
+Thanks for visiting my profile! ⭐
+$ exit
+```
 
 ---
 
