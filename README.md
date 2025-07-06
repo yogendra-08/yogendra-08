@@ -149,16 +149,7 @@
 <table> <tr> <td align="center"> <img src="https://img.icons8.com/emoji/48/000000/star-emoji.png" width="30"/><br/> <b>Stars</b><br/> <img src="https://img.shields.io/badge/41-FFD700?style=for-the-badge&label=Stars&logo=github&logoColor=black"/> </td> <td align="center"> <img src="https://img.icons8.com/color/48/source-code.png" width="30"/><br/> <b>Repositories</b><br/> <img src="https://img.shields.io/badge/24-1E90FF?style=for-the-badge&label=Repos&logo=github"/> </td> <td align="center"> <img src="https://img.icons8.com/color/48/git.png" width="30"/><br/> <b>Commits</b><br/> <img src="https://img.shields.io/badge/66-AA00FF?style=for-the-badge&label=Commits&logo=git"/> </td> <td align="center"> <img src="https://img.icons8.com/ios-filled/50/group-foreground-selected.png" width="30"/><br/> <b>Followers</b><br/> <img src="https://img.shields.io/badge/3-grey?style=for-the-badge&label=Followers&logo=github"/> </td> <td align="center"> <img src="https://img.icons8.com/color/48/bug.png" width="30"/><br/> <b>Issues</b><br/> <img src="https://img.shields.io/badge/1-E94B3C?style=for-the-badge&label=Issues&logo=github"/> </td> <td align="center"> <img src="https://img.icons8.com/color/48/merge-git.png" width="30"/><br/> <b>Pull Requests</b><br/> <img src="https://img.shields.io/badge/1-FFA500?style=for-the-badge&label=PRs&logo=github"/> </td> </tr> </table>
 Earning milestones as I contribute and grow with 💻 & ❤️
 
-### 🏆 GitHub Special Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" height="100" alt="Pair Extraordinaire" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="100" alt="YOLO" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="100" alt="Pull Shark" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="100" alt="Quickdraw" />
-</p>
-
-<p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
+<table> <tr> <td align="center"> <img src="https://img.icons8.com/emoji/48/000000/star-emoji.png" width="30"/><br/> <b>Stars</b><br/> <img src="https://img.shields.io/badge/41-FFD700?style=for-the-badge&label=Stars&logo=github&logoColor=black"/> </td> <td align="center"> <img src="https://img.icons8.com/color/48/source-code.png" width="30"/><br/> <b>Repositories</b><br/> <img src="https://img.shields.io/badge/24-1E90FF?style=for-the-badge&label=Repos&logo=github"/> </td> <td align="center"> <img src="https://img.icons8.com/color/48/git.png" width="30"/><br/> <b>Commits</b><br/> <img src="https://img.shields.io/badge/66-AA00FF?style=for-the-badge&label=Commits&logo=git"/> </td> <td align="center"> <img src="https://img.icons8.com/color/48/bug.png" width="30"/><br/> <b>Issues</b><br/> <img src="https://img.shields.io/badge/1-E94B3C?style=for-the-badge&label=Issues&logo=github"/> </td> <td align="center"> <img src="https://img.icons8.com/color/48/merge-git.png" width="30"/><br/> <b>Pull Requests</b><br/> <img src="https://img.shields.io/badge/1-FFA500?style=for-the-badge&label=PRs&logo=github"/> </td> </tr> </table> <p align="center"><i>Earning milestones as I contribute and grow with 💻 & ❤️</i></p>
 
 
 
