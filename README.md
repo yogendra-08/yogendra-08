@@ -1,81 +1,248 @@
-<!-- Banner -->
-<p align="center">
-  <img src="<!-- YOUR BANNER LINK HERE -->" alt="Yogendra Bhange Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Yogendra Bhange</h1>
-<h3 align="center">🚀 An IT Student from Nagpur, passionate about real-world projects with code.</h3>
+<h3 align="center">An IT student building real-world projects with code.</h3>
 
----
-
-## 👨‍💻 About Me
-- 🏫 Diploma Student @ Government Polytechnic, Nagpur (2023–26)  
-- 💡 I build apps and systems that solve real-life problems  
-- 🛠️ Skilled in: C, C++, Python, JavaScript, Flask, MySQL, Firebase  
-- 🧠 Currently learning: Backend Scaling, TypeScript, Deployment  
-- 🎨 Designing web UIs with Cyber/Neon themes  
-
----
-
-## 🧰 Tech Stack
-### Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web & UI
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 🔥 My Projects
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎓 **Student Management System** | C++ with file handling & data structures | C++ |
-| 🌐 **CampusConnect** | A Django-based campus portal | Django, Python |
-| 🛒 **Mini E-Commerce** | Shopping app with Flask backend | Flask, Bootstrap |
-| 🧠 **Trushna AI** | Neon-themed voice/text AI assistant | Python, Firebase, JS |
-| 🧾 **Feedback Web App** | Form system with auto-mail and database | HTML, Flask |
-| 🐞 **Complaint Manager** | Admin-student complaint tracking app | HTML, Flask |
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogendra-27-bhange&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yogendra-27-bhange&theme=radical" width="48%" />
+  <a href="mailto:yogendrabhange@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/yogendra-27-bhange"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/yogendra-bhange"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Diploma student at *Government Polytechnic, Nagpur* (2023–26)  
+- 💡 Passionate about building real-world apps with *Python, C++, Flask & Frontend*  
+- 🧠 Exploring *AI Assistants, **Firebase*, and Full-Stack Development  
+- 🌱 Currently improving: *Next.js, TypeScript, Tailwind, and APIs*  
+- ⚡ Fun fact: I love turning ideas into working code.
+
+---
+
+### 📺 Latest YouTube Video
+
+> 🎬 *Build a Tkinter Calculator with Python*  
+> Learn how to create a simple and powerful calculator using Python's Tkinter GUI library. Great for beginners!
+
+
+<p align="left"> <a href="https://youtu.be/YMI_7_4ivP8" target="_blank"> <img src="https://img.youtube.com/vi/YMI_7_4ivP8/mqdefault.jpg" alt="Mini Portfolio Generator Video" width="320" /> </a> </p> <p align="left"><b>🔗 Watch Now:</b> <a href="https://youtu.be/YMI_7_4ivP8">https://youtu.be/YMI_7_4ivP8</a></p>
+
+---
+
+## 💼 Tech Stack
+
+
+### 👨‍💻 Languages  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" width="40"/><br><sub><b>C</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><sub><b>C++</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="40"/><br><sub><b>Python</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="40"/><br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="40"/><br><sub><b>TypeScript</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+
+### 🎨 Frontend  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="40"/><br><sub><b>HTML</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="40"/><br><sub><b>CSS</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br><sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="40"/><br><sub><b>React</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+
+### 🔧 Backend / Tools  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" width="40"/><br><sub><b>Flask</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=django" width="40"/><br><sub><b>Django</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40"/><br><sub><b>Firebase</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="40"/><br><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=netlify" width="40"/><br><sub><b>Netlify</b></sub>
+    </td>
+  </tr>
+</table>
+---
+
+<table>
+  <thead>
+    <tr>
+      <th>🚀 Project</th>
+      <th>📝 Description</th>
+      <th>📦 Repo</th>
+      <th>🌐 Live Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Pathfinder AI</b></td>
+      <td>Career guidance system using OpenAI & Firebase</td>
+      <td><a href="https://github.com/yogendra-27-bhange/Pathfinder-AI-sih1781">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td><a href="https://pathfinder-aiyy.netlify.app/">
+        <img src="https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=netlify" /></a></td>
+    </tr>
+    <tr>
+      <td><b>MediQueue – OPD Manager</b></td>
+      <td>Smart hospital queue system with bed & appointment tracking</td>
+      <td><a href="https://github.com/yogendra-27-bhange/mediqueue-sih1620-opd-management">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td><a href="https://mediqueue-yy.netlify.app/">
+        <img src="https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=netlify" /></a></td>
+    </tr>
+    <tr>
+      <td><b>EventPlanner AI</b></td>
+      <td>Auto-generates event content using OpenAI</td>
+      <td><a href="https://github.com/yogendra-27-bhange/eventplanner">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td><a href="https://eventplanner-yy.netlify.app/">
+        <img src="https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=netlify" /></a></td>
+    </tr>
+    <tr>
+      <td><b>Trushna AI Assistant</b></td>
+      <td>Voice + text-based assistant with Gemini API</td>
+      <td><a href="https://github.com/yogendra-27-bhange/trushna_ai_assisant">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td><a href="https://trushnaai-ty.netlify.app/">
+        <img src="https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=netlify" /></a></td>
+    </tr>
+    <tr>
+      <td><b>Mini E-Commerce</b></td>
+      <td>Flask + MySQL shopping site with cart & admin dashboard</td>
+      <td><a href="https://github.com/yogendra-27-bhange/mini-ecommerce">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td><b>CampusConnect</b></td>
+      <td>Django app to manage students & courses</td>
+      <td><a href="https://github.com/yogendra-27-bhange/campusconnect">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td><b>Complaint Manager</b></td>
+      <td>Flask app with role-based complaint tracking</td>
+      <td><a href="https://github.com/yogendra-27-bhange/complaint-management-system">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+📂 More projects → [View All Repos](https://github.com/yogendra-27-bhange?tab=repositories)
+
+---
+
+### 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogendra-27-bhange&layout=compact&theme=tokyonight)
+
+---
+## 📊 Updated GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-27-bhange&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+
+## 🏆 GitHub Achievements
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/emoji/48/000000/star-emoji.png" width="30"/><br/>
+      <b>Stars</b><br/>
+      <img src="https://img.shields.io/badge/41-FFD700?style=for-the-badge&label=Stars&logo=github&logoColor=black"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/source-code.png" width="30"/><br/>
+      <b>Repositories</b><br/>
+      <img src="https://img.shields.io/badge/24-1E90FF?style=for-the-badge&label=Repos&logo=github"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/git.png" width="30"/><br/>
+      <b>Commits</b><br/>
+      <img src="https://img.shields.io/badge/66-AA00FF?style=for-the-badge&label=Commits&logo=git"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/bug.png" width="30"/><br/>
+      <b>Issues</b><br/>
+      <img src="https://img.shields.io/badge/1-E94B3C?style=for-the-badge&label=Issues&logo=github"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/merge-git.png" width="30"/><br/>
+      <b>Pull Requests</b><br/>
+      <img src="https://img.shields.io/badge/1-FFA500?style=for-the-badge&label=PRs&logo=github"/>
+    </td>
+  </tr>
+</table>
+
+_Earning milestones as I contribute and grow with 💻 & ❤️
 
 ---
 
 ## 🏆 GitHub Special Achievements
 
+<table align="center"> <tr> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" /><br /> <b>Pair Extraordinaire</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" /><br /> <b>YOLO</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" /><br /> <b>Pull Shark</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" /><br /> <b>Quickdraw</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100" /><br /> <b>Galaxy Brain</b> </td> </tr> </table> <p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
+
+
+---
+
+### 🏢 My Organization
+
+💻 I'm also a contributor and owner at **[Error-labs7](https://github.com/Error-labs7)** — a developer community working on innovative projects and experiments.
+
+---
+
+### 📬 Connect With Me
+
+- 📧 Email: [yogendrabhange@gmail.com](mailto:yogendrabhange@gmail.com)  
+- 🌐 Portfolio: [yyogendra-portfolio.netlify.app](https://yyogendra-portfolio.netlify.app/)  
+- 🔗 GitHub: [yogendra-27-bhange](https://github.com/yogendra-27-bhange)  
+- 💼 LinkedIn: [Yogendra Bhange](https://www.linkedin.com/in/yogendra-bhange)
+
+---
+
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" height="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" height="80" />
-</p>
-
----
-
-## 📫 Let's Connect!
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yyogendra-portfolio.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogendrabhange@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yogendra-bhange)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogendra-27-bhange)
-
----
-
-⭐ _If you like my work, consider giving a star to my repositories!_
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>  
