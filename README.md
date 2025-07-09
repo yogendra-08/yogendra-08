@@ -50,8 +50,12 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=ts" width="40"/><br><sub><b>TypeScript</b></sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="40"/><br><sub><b>Java</b></sub>
+    </td>
   </tr>
 </table>
+
 
 
 
