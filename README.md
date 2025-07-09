@@ -242,8 +242,67 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 
 ---
 
-🚀 Projects Showcase (Click to Expand)
-<details> <summary><strong>💡 Hackathon Projects</strong></summary><br> <table> <tr> <td><strong>🧠 Pathfinder AI</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/Pathfinder-AI-sih1781" target="_blank">🔗 GitHub</a> | <a href="https://pathfinder-aiyy.netlify.app" target="_blank">🌐 Live</a> </td> </tr> <tr> <td><strong>🏥 MediQueue – OPD Management</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/mediqueue-sih1620-opd-management" target="_blank">🔗 GitHub</a> | <a href="https://mediqueue-yy.netlify.app" target="_blank">🌐 Live</a> </td> </tr> </table> </details> <details> <summary><strong>🌐 Web Applications</strong></summary><br> <table> <tr> <td><strong>☁️ WeatherWise</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/weatherwise" target="_blank">🔗 GitHub</a> | <a href="https://weatherwise-yy.netlify.app" target="_blank">🌐 Live</a> </td> </tr> <tr> <td><strong>⚡ WeatherWise 2.0</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/WeatherWise-2.0" target="_blank">🔗 GitHub</a> | <a href="https://weatherwise-2.netlify.app" target="_blank">🌐 Live</a> </td> </tr> <tr> <td><strong>📆 Event Planner</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/eventplanner" target="_blank">🔗 GitHub</a> | <a href="https://eventplanner-yy.netlify.app" target="_blank">🌐 Live</a> </td> </tr> <tr> <td><strong>🧑‍🌾 Smart Farming Dashboard</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/smart-farming-dashboard" target="_blank">🔗 GitHub</a> | <a href="https://agriview-yy.netlify.app" target="_blank">🌐 Live</a> </td> </tr> <tr> <td><strong>📲 Saarthi PWA</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/saarthi-PWA" target="_blank">🔗 GitHub</a> | <a href="https://saarthi-app.netlify.app" target="_blank">🌐 Live</a> </td> </tr> </table> </details>
+### 🚀 Project Showcase
+
+<table>
+  <tr>
+    <th>🔹 Project</th>
+    <th>📝 Description</th>
+    <th>🌐 Demo</th>
+    <th>📂 GitHub</th>
+  </tr>
+
+  <tr>
+    <td>🧠 Pathfinder AI</td>
+    <td>Smart career recommendation system built for SIH Hackathon.</td>
+    <td><a href="https://pathfinder-aiyy.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat&logo=netlify" /></a></td>
+    <td><a href="https://github.com/yogendra-27-bhange/Pathfinder-AI-sih1781" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github" /></a></td>
+  </tr>
+
+  <tr>
+    <td>🏥 MediQueue OPD</td>
+    <td>OPD queue management system for hospitals (SIH Hackathon).</td>
+    <td><a href="https://mediqueue-yy.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat&logo=netlify" /></a></td>
+    <td><a href="https://github.com/yogendra-27-bhange/mediqueue-sih1620-opd-management" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github" /></a></td>
+  </tr>
+
+  <tr>
+    <td>☁️ WeatherWise</td>
+    <td>Simple and beautiful weather app showing live weather data.</td>
+    <td><a href="https://weatherwise-yy.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat&logo=netlify" /></a></td>
+    <td><a href="https://github.com/yogendra-27-bhange/weatherwise" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github" /></a></td>
+  </tr>
+
+  <tr>
+    <td>⚡ WeatherWise 2.0</td>
+    <td>Advanced version of WeatherWise with better UI and features.</td>
+    <td><a href="https://weatherwise-2.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat&logo=netlify" /></a></td>
+    <td><a href="https://github.com/yogendra-27-bhange/WeatherWise-2.0" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github" /></a></td>
+  </tr>
+
+  <tr>
+    <td>📲 Saarthi PWA</td>
+    <td>Progressive Web App for bus & route assistance with offline access.</td>
+    <td><a href="https://saarthi-app.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat&logo=netlify" /></a></td>
+    <td><a href="https://github.com/yogendra-27-bhange/saarthi-PWA" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github" /></a></td>
+  </tr>
+
+  <tr>
+    <td>📆 Event Planner</td>
+    <td>Helps users plan and schedule events with reminders and notes.</td>
+    <td><a href="https://eventplanner-yy.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat&logo=netlify" /></a></td>
+    <td><a href="https://github.com/yogendra-27-bhange/eventplanner" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github" /></a></td>
+  </tr>
+
+  <tr>
+    <td>🧑‍🌾 Smart Farming Dashboard</td>
+    <td>Real-time monitoring dashboard for precision agriculture.</td>
+    <td><a href="https://agriview-yy.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat&logo=netlify" /></a></td>
+    <td><a href="https://github.com/yogendra-27-bhange/smart-farming-dashboard" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github" /></a></td>
+  </tr>
+
+</table>
+
 
 ---
 
