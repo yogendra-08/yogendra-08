@@ -242,6 +242,11 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 
 ---
 
+🚀 Projects Showcase (Click to Expand)
+<details> <summary><strong>💡 Hackathon Projects</strong></summary><br> <table> <tr> <td><strong>🧠 Pathfinder AI</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/Pathfinder-AI-sih1781" target="_blank">🔗 GitHub</a> | <a href="https://pathfinder-aiyy.netlify.app" target="_blank">🌐 Live</a> </td> </tr> <tr> <td><strong>🏥 MediQueue – OPD Management</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/mediqueue-sih1620-opd-management" target="_blank">🔗 GitHub</a> | <a href="https://mediqueue-yy.netlify.app" target="_blank">🌐 Live</a> </td> </tr> </table> </details> <details> <summary><strong>🌐 Web Applications</strong></summary><br> <table> <tr> <td><strong>☁️ WeatherWise</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/weatherwise" target="_blank">🔗 GitHub</a> | <a href="https://weatherwise-yy.netlify.app" target="_blank">🌐 Live</a> </td> </tr> <tr> <td><strong>⚡ WeatherWise 2.0</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/WeatherWise-2.0" target="_blank">🔗 GitHub</a> | <a href="https://weatherwise-2.netlify.app" target="_blank">🌐 Live</a> </td> </tr> <tr> <td><strong>📆 Event Planner</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/eventplanner" target="_blank">🔗 GitHub</a> | <a href="https://eventplanner-yy.netlify.app" target="_blank">🌐 Live</a> </td> </tr> <tr> <td><strong>🧑‍🌾 Smart Farming Dashboard</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/smart-farming-dashboard" target="_blank">🔗 GitHub</a> | <a href="https://agriview-yy.netlify.app" target="_blank">🌐 Live</a> </td> </tr> <tr> <td><strong>📲 Saarthi PWA</strong></td> <td> <a href="https://github.com/yogendra-27-bhange/saarthi-PWA" target="_blank">🔗 GitHub</a> | <a href="https://saarthi-app.netlify.app" target="_blank">🌐 Live</a> </td> </tr> </table> </details>
+
+---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
