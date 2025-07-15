@@ -24,7 +24,7 @@
 
 - 🎓 Diploma student at *Government Polytechnic, Nagpur* (2023–26)  
 - 💡 Passionate about building real-world apps with *Python, C++, Flask & Frontend*  
-- 🧠 Exploring *AI Assistants, **Firebase*, and Full-Stack Development  
+- 🧠 Exploring AI Assistants, Firebase, and Full-Stack Development  
 - 🌱 Currently improving: *Next.js, TypeScript, Tailwind, and APIs*  
 - ⚡ Fun fact: I love turning ideas into working code.
 
