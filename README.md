@@ -109,13 +109,12 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=netlify" width="40"/><br><sub><b>Netlify</b></sub>
     </td>
-      <td align="center>
+      <td align="center">
       <img src="https://skillicons.dev/icons?i=vercel" width="40"/><br><sub><b>Vercel</b></sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=supabase" width="40"/><br><sub><b>Supabase</b></sub>
     </td>
-  </tr>
   </tr>
 </table>
 
