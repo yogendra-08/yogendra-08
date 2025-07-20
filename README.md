@@ -64,6 +64,20 @@
     </td>
   </tr>
 </table>
+### 🛢️ Databases & Hosting  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" width="40"/><br><sub><b>Vercel</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=supabase" width="40"/><br><sub><b>Supabase</b></sub>
+    </td>
+  </tr>
+</table>
 
 
 
