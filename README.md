@@ -245,24 +245,6 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 
 ---
 
-### 📺 Latest YouTube Video
-
-> 🎬 *Build a Tkinter Calculator with Python*  
-> Learn how to create a simple and powerful calculator using Python's Tkinter GUI library. Great for beginners!
-
-
-<p align="left"> <a href="https://youtu.be/YMI_7_4ivP8" target="_blank"> <img src="https://img.youtube.com/vi/YMI_7_4ivP8/mqdefault.jpg" alt="Mini Portfolio Generator Video" width="320" /> </a> </p> <p align="left"><b>🔗 Watch Now:</b> <a href="https://youtu.be/YMI_7_4ivP8">https://youtu.be/YMI_7_4ivP8</a></p>
-
----
-
-### 📬 Connect With Me
-
-- 📧 Email: [yogendrabhange@gmail.com](mailto:yogendrabhange@gmail.com)  
-- 🌐 Portfolio: [yyogendra-portfolio.netlify.app](https://yyogendra-portfolio.netlify.app/)  
-- 🔗 GitHub: [yogendra-27-bhange](https://github.com/yogendra-27-bhange)  
-- 💼 LinkedIn: [Yogendra Bhange](https://www.linkedin.com/in/yogendra-bhange)
-
----
 
 ### 🚀 Project Showcase
 
