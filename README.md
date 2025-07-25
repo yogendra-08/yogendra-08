@@ -38,14 +38,6 @@
 🚀 Built **MediSafe – AI-Powered Health Document Locker** under 36 hours  
 🔐 A secure document locker with Supabase Storage, AI OCR integration, and real-time document analysis.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Team%20Error-SuPrathon%202K25%20Winner-brightgreen?style=for-the-badge" alt="Hackathon Winner Badge"/>
-</p>
-
-<p align="center">
-  <strong>MediSafe Locker</strong> is the AI-powered health document vault that secured 1st place in <b>India’s biggest virtual hackathon - SuPrathon 2K25</b>. This project was recognized for its real-world impact, advanced tech stack, and innovation in healthcare document management.  
-</p>
-
 
 [![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C897?style=for-the-badge&logo=netlify)](https://medisafe-locker.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-24292F?style=for-the-badge&logo=github)](https://github.com/yogendra-27-bhange/medisafe-health-locker)
