@@ -123,6 +123,61 @@
 
 ---
 
+## 🏆 GitHub Special Achievements
+
+<table align="center"> <tr> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" /><br /> <b>Pair Extraordinaire</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" /><br /> <b>YOLO</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" /><br /> <b>Pull Shark</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" /><br /> <b>Quickdraw</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100" /><br /> <b>Galaxy Brain</b> </td> </tr> </table> <p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
+
+
+---
+
+
+## 🏆 GitHub Achievements
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/emoji/48/000000/star-emoji.png" width="30"/><br/>
+      <b>Stars</b><br/>
+      <img src="https://img.shields.io/badge/41-FFD700?style=for-the-badge&label=Stars&logo=github&logoColor=black"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/source-code.png" width="30"/><br/>
+      <b>Repositories</b><br/>
+      <img src="https://img.shields.io/badge/24-1E90FF?style=for-the-badge&label=Repos&logo=github"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/git.png" width="30"/><br/>
+      <b>Commits</b><br/>
+      <img src="https://img.shields.io/badge/66-AA00FF?style=for-the-badge&label=Commits&logo=git"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/bug.png" width="30"/><br/>
+      <b>Issues</b><br/>
+      <img src="https://img.shields.io/badge/1-E94B3C?style=for-the-badge&label=Issues&logo=github"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/merge-git.png" width="30"/><br/>
+      <b>Pull Requests</b><br/>
+      <img src="https://img.shields.io/badge/1-FFA500?style=for-the-badge&label=PRs&logo=github"/>
+    </td>
+  </tr>
+</table>
+
+_Earning milestones as I contribute and grow with 💻 & ❤️
+
+---
+
+
+## 📊 Updated GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-27-bhange&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+
 <table>
   <thead>
     <tr>
@@ -193,66 +248,6 @@
 
 
 ---
-## 📊 Updated GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-27-bhange&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🏆 GitHub Special Achievements
-
-<table align="center"> <tr> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" /><br /> <b>Pair Extraordinaire</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" /><br /> <b>YOLO</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" /><br /> <b>Pull Shark</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" /><br /> <b>Quickdraw</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100" /><br /> <b>Galaxy Brain</b> </td> </tr> </table> <p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
-
-
----
-
-
-## 🏆 GitHub Achievements
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/emoji/48/000000/star-emoji.png" width="30"/><br/>
-      <b>Stars</b><br/>
-      <img src="https://img.shields.io/badge/41-FFD700?style=for-the-badge&label=Stars&logo=github&logoColor=black"/>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/source-code.png" width="30"/><br/>
-      <b>Repositories</b><br/>
-      <img src="https://img.shields.io/badge/24-1E90FF?style=for-the-badge&label=Repos&logo=github"/>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/git.png" width="30"/><br/>
-      <b>Commits</b><br/>
-      <img src="https://img.shields.io/badge/66-AA00FF?style=for-the-badge&label=Commits&logo=git"/>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/bug.png" width="30"/><br/>
-      <b>Issues</b><br/>
-      <img src="https://img.shields.io/badge/1-E94B3C?style=for-the-badge&label=Issues&logo=github"/>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/merge-git.png" width="30"/><br/>
-      <b>Pull Requests</b><br/>
-      <img src="https://img.shields.io/badge/1-FFA500?style=for-the-badge&label=PRs&logo=github"/>
-    </td>
-  </tr>
-</table>
-
-_Earning milestones as I contribute and grow with 💻 & ❤️
-
----
-
-
-
-### 🏢 My Organization
-
-💻 I'm also a contributor and owner at **[Error-labs7](https://github.com/Error-labs7)** — a developer community working on innovative projects and experiments.
-
----
 
 
 
@@ -274,6 +269,14 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 - 💼 LinkedIn: [Yogendra Bhange](https://www.linkedin.com/in/yogendra-bhange)
 
 ---
+
+
+### 🏢 My Organization
+
+💻 I'm also a contributor and owner at **[Error-labs7](https://github.com/Error-labs7)** — a developer community working on innovative projects and experiments.
+
+---
+
 
 
 <p align="center">
