@@ -35,14 +35,7 @@
 
 🥇 **Winner of SuPrathon 2K25** – India’s Biggest National Hackathon  
 👨‍💻 **Team Leader** – *Team Error*  
-🚀 Built an AI-driven, Supabase-integrated solution under 48 hours  
-
----
-
-## 🏆 GitHub Special Achievements
-
-<table align="center"> <tr> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" /><br /> <b>Pair Extraordinaire</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" /><br /> <b>YOLO</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" /><br /> <b>Pull Shark</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" /><br /> <b>Quickdraw</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100" /><br /> <b>Galaxy Brain</b> </td> </tr> </table> <p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
-
+🚀 Built an AI-driven, Supabase-integrated solution under 36 hours  
 
 ---
 
@@ -205,6 +198,13 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-27-bhange&theme=tokyonight" height="180"/>
 </p>
+
+---
+
+## 🏆 GitHub Special Achievements
+
+<table align="center"> <tr> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" /><br /> <b>Pair Extraordinaire</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" /><br /> <b>YOLO</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" /><br /> <b>Pull Shark</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" /><br /> <b>Quickdraw</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100" /><br /> <b>Galaxy Brain</b> </td> </tr> </table> <p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
+
 
 ---
 
