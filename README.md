@@ -35,7 +35,11 @@
 
 🥇 **Winner of SuPrathon 2K25** – India’s Biggest National Hackathon  
 👨‍💻 **Team Leader** – *Team Error*  
-🚀 Built an AI-driven, Supabase-integrated solution under 36 hours  
+🚀 Built **MediSafe – AI-Powered Health Document Locker** under 48 hours  
+🔐 A secure document locker with Supabase Storage, AI OCR integration, and real-time document analysis.
+
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C897?style=for-the-badge&logo=netlify)](https://medisafe-locker.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-24292F?style=for-the-badge&logo=github)](https://github.com/yogendra-27-bhange/medisafe-health-locker)
 
 ---
 
