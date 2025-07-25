@@ -221,8 +221,7 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
       <td>Voice + text-based assistant with Gemini API</td>
       <td><a href="https://github.com/yogendra-27-bhange/trushna_ai_assisant">
         <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
-      <td><a href="https://trushnaai-ty.netlify.app/">
-        <img src="https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=netlify" /></a></td>
+      <td>-</td>
     </tr>
     <tr>
       <td><b>Mini E-Commerce</b></td>
