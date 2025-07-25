@@ -29,6 +29,15 @@
 - ⚡ Fun fact: I love turning ideas into working code.
 
 ---
+### 🏆 Hackathon Highlight
+
+[![Winner Badge](https://img.shields.io/badge/SuPrathon%202K25-WINNER-blueviolet?style=for-the-badge&logo=hackthebox)](https://github.com/yogendra-27-bhange)
+
+🥇 **Winner of SuPrathon 2K25** – India’s Biggest National Hackathon  
+👨‍💻 **Team Leader** – *Team Error*  
+🚀 Built an AI-driven, Supabase-integrated solution under 48 hours  
+
+---
 
 ## 🏆 GitHub Special Achievements
 
