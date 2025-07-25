@@ -247,9 +247,6 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 
 
 
-
----
-
 ### 📺 Latest YouTube Video
 
 > 🎬 *Build a Tkinter Calculator with Python*  
