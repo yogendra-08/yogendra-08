@@ -91,13 +91,13 @@
       <img src="https://skillicons.dev/icons?i=react" width="40"/><br><sub><b>React</b></sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=railway" width="40"/><br><sub><b>Railway</b></sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=replit" width="40"/><br><sub><b>Replit</b></sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git" width="40"/><br><sub><b>Git</b></sub>
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=railway" width="40"/><br><sub><b>Railway</b></sub>
     </td>
   </tr>
 </table>
