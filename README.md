@@ -90,7 +90,7 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="40"/><br><sub><b>React</b></sub>
     </td>
-    td align="center">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=railway" width="40"/><br><sub><b>Railway</b></sub>
     </td>
     <td align="center">
