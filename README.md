@@ -96,9 +96,6 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git" width="40"/><br><sub><b>Git</b></sub>
     </td>
-     <td align="center">
-      <img src="https://skillicons.dev/icons?i=railway" width="40"/><br><sub><b>Railway</b></sub>
-    </td>
   </tr>
 </table>
 
