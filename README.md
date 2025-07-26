@@ -128,20 +128,13 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=supabase" width="40"/><br><sub><b>Supabase</b></sub>
     </td>
+      <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="40"/><br><sub><b>Figma</b></sub>
+      </td>  
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br><sub><b>VS Code</b></sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="40"/><br><sub><b>Jupyter</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="40"/><br><sub><b>Figma</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=canva" width="40"/><br><sub><b>Canva</b></sub>
-    </td>
-
-  </tr>
+     </tr>
 </table>
 
 
