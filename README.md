@@ -122,6 +122,15 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=supabase" width="40"/><br><sub><b>Supabase</b></sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cursor" width="40"/><br><sub><b>Cursor</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=windsurf" width="40"/><br><sub><b>Windsurf</b></sub>
+    </td>
   </tr>
 </table>
 
