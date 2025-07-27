@@ -40,7 +40,7 @@
 
 
 [![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C897?style=for-the-badge&logo=netlify)](https://medisafe-locker.netlify.app/)
-[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-24292F?style=for-the-badge&logo=github)](https://github.com/yogendra-27-bhange/medisafe-health-locker)
+[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-24292F?style=for-the-badge&logo=github)](https://github.com/yogendra-08/medisafe-health-locker)
 
 ---
 
@@ -189,7 +189,7 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 ## 📊 Updated GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-27-bhange&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-08&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -208,7 +208,7 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
     <tr>
       <td><b>Pathfinder AI</b></td>
       <td>Career guidance system using OpenAI & Firebase</td>
-      <td><a href="https://github.com/yogendra-27-bhange/Pathfinder-AI-sih1781">
+      <td><a href="https://github.com/yogendra-08/Pathfinder-AI-sih1781">
         <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
       <td><a href="https://pathfinder-aiyy.netlify.app/">
         <img src="https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=netlify" /></a></td>
@@ -216,7 +216,7 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
     <tr>
       <td><b>MediQueue – OPD Manager</b></td>
       <td>Smart hospital queue system with bed & appointment tracking</td>
-      <td><a href="https://github.com/yogendra-27-bhange/mediqueue-sih1620-opd-management">
+      <td><a href="https://github.com/yogendra-08/mediqueue-sih1620-opd-management">
         <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
       <td><a href="https://mediqueue-yy.netlify.app/">
         <img src="https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=netlify" /></a></td>
@@ -224,7 +224,7 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
     <tr>
       <td><b>EventPlanner AI</b></td>
       <td>Auto-generates event content using OpenAI</td>
-      <td><a href="https://github.com/yogendra-27-bhange/eventplanner">
+      <td><a href="https://github.com/yogendra-08/eventplanner">
         <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
       <td><a href="https://eventplanner-yy.netlify.app/">
         <img src="https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=netlify" /></a></td>
@@ -232,35 +232,35 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
     <tr>
       <td><b>Trushna AI Assistant</b></td>
       <td>Voice + text-based assistant with Gemini API</td>
-      <td><a href="https://github.com/yogendra-27-bhange/trushna_ai_assisant">
+      <td><a href="https://github.com/yogendra-08/trushna_ai_assisant">
         <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
         <td>—</td>
     </tr>
     <tr>
       <td><b>Mini E-Commerce</b></td>
       <td>Flask + MySQL shopping site with cart & admin dashboard</td>
-      <td><a href="https://github.com/yogendra-27-bhange/mini-ecommerce">
+      <td><a href="https://github.com/yogendra-08/mini-ecommerce">
         <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
       <td>—</td>
     </tr>
     <tr>
       <td><b>CampusConnect</b></td>
       <td>Django app to manage students & courses</td>
-      <td><a href="https://github.com/yogendra-27-bhange/campusconnect">
+      <td><a href="https://github.com/yogendra-08/campusconnect">
         <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
       <td>—</td>
     </tr>
     <tr>
       <td><b>Complaint Manager</b></td>
       <td>Flask app with role-based complaint tracking</td>
-      <td><a href="https://github.com/yogendra-27-bhange/complaint-management-system">
+      <td><a href="https://github.com/yogendra-08/complaint-management-system">
         <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
       <td>—</td>
     </tr>
   </tbody>
 </table>
 
-📂 More projects → [View All Repos](https://github.com/yogendra-27-bhange?tab=repositories)
+📂 More projects → [View All Repos](https://github.com/yogendra-08?tab=repositories)
 
 
 ---
@@ -281,7 +281,7 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 
 - 📧 Email: [yogendrabhange@gmail.com](mailto:yogendrabhange@gmail.com)  
 - 🌐 Portfolio: [yyogendra-portfolio.netlify.app](https://yyogendra-portfolio.netlify.app/)  
-- 🔗 GitHub: [yogendra-27-bhange](https://github.com/yogendra-27-bhange)  
+- 🔗 GitHub: [yogendra-08](https://github.com/yogendra-08)  
 - 💼 LinkedIn: [Yogendra Bhange](https://www.linkedin.com/in/yogendra-bhange)
 
 ---
