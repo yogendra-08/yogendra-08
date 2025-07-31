@@ -30,6 +30,18 @@
 
 
 ---
+### 🏆 Hackathon Highlight
+
+[![Winner Badge](https://img.shields.io/badge/SuPrathon%202K25-WINNER-blueviolet?style=for-the-badge&logo=hackthebox)](https://github.com/yogendra-27-bhange)
+
+🥇 *Winner of SuPrathon 2K25* – India’s Biggest National Hackathon  
+👨‍💻 *Team Leader* – Team Error  
+🚀 Built *MediSafe – AI-Powered Health Document Locker* under 36 hours  
+🔐 A secure document locker with Supabase Storage, AI OCR integration, and real-time document analysis.
+
+
+[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-24292F?style=for-the-badge&logo=github)](https://github.com/yogendra-08/medisafe-health-locker)
+---
 
 
 ## 💼 Tech Stack
