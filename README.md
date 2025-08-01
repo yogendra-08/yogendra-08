@@ -229,13 +229,6 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
         <img src="https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=netlify" /></a></td>
     </tr>
     <tr>
-      <td><b>Trushna AI Assistant</b></td>
-      <td>Voice + text-based assistant with Gemini API</td>
-      <td><a href="https://github.com/yogendra-08/trushna_ai_assisant">
-        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" /></a></td>
-        <td>—</td>
-    </tr>
-    <tr>
       <td><b>Mini E-Commerce</b></td>
       <td>Flask + MySQL shopping site with cart & admin dashboard</td>
       <td><a href="https://github.com/yogendra-08/mini-ecommerce">
