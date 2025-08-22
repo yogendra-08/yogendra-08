@@ -290,3 +290,4 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>  
+<img src="https://github.githubassets.com/images/modules/profile/achievements/shark-default.png" width="80" /> x2
