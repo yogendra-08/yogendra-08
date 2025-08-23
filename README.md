@@ -272,7 +272,7 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 ### 📬 Connect With Me
 
 - 📧 Email: [yogendrabhange@gmail.com](mailto:yogendrabhange@gmail.com)  
-- 🌐 Portfolio: [yyogendra-portfolio.netlify.app](https://yyogendra-portfolio.netlify.app/)  
+- 🌐 Portfolio: [https://yogedra-portfolio.netlify.app/](https://yogedra-portfolio.netlify.app/)  
 - 🔗 GitHub: [yogendra-08](https://github.com/yogendra-08)  
 - 💼 LinkedIn: [Yogendra Bhange](https://www.linkedin.com/in/yogendra-bhange)
 
