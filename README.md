@@ -285,6 +285,7 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 
 ---
 
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
@@ -296,10 +297,4 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>  
-
- 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
-
 
