@@ -30,18 +30,18 @@
 
 
 ---
-### 🏆 Hackathon Highlight
 
-[![Winner Badge](https://img.shields.io/badge/SuPrathon%202K25-WINNER-blueviolet?style=for-the-badge&logo=hackthebox)](https://github.com/yogendra-27-bhange)
+## 🏆 GitHub Special Achievements
 
-🥇 *Winner of SuPrathon 2K25* – India’s Biggest National Hackathon  
-👨‍💻 *Team Leader* – Team Error  
-🚀 Built *MediSafe – AI-Powered Health Document Locker* under 36 hours  
-🔐 A secure document locker with Supabase Storage, AI OCR integration, and real-time document analysis.
+<table align="center"> <tr> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" /><br /> <b>Pair Extraordinaire</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" /><br /> <b>YOLO</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" /><br /> <b>Pull Shark</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" /><br /> <b>Quickdraw</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100" /><br /> <b>Galaxy Brain</b> </td>
+   <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="100" /><br />
+      <b>Starstruck</b>
+    </td></tr> </table> <p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
 
 
-[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-24292F?style=for-the-badge&logo=github)](https://github.com/yogendra-08/medisafe-health-locker)
 ---
+
 
 
 ## 💼 Tech Stack
@@ -135,17 +135,6 @@
     </td>
      </tr>
 </table>
-
-
----
-
-## 🏆 GitHub Special Achievements
-
-<table align="center"> <tr> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" /><br /> <b>Pair Extraordinaire</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" /><br /> <b>YOLO</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" /><br /> <b>Pull Shark</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" /><br /> <b>Quickdraw</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100" /><br /> <b>Galaxy Brain</b> </td>
-   <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="100" /><br />
-      <b>Starstruck</b>
-    </td></tr> </table> <p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
 
 
 ---
