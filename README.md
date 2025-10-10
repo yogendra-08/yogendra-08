@@ -18,6 +18,16 @@
   </a>
 </p>
 
+
+<div align="center">
+
+![Stars](https://custom-icon-badges.demolab.com/github/stars/yogendra-08?color=gold&logo=star&style=for-the-badge&label=Profile%20Stars)
+
+</div>
+
+
+
+
 ---
 
 ### 👨‍💻 About Me
@@ -184,6 +194,9 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-08&theme=tokyonight" height="180"/>
 </p>
 
+
+![GitHub Stars](https://github-readme-stats.vercel.app/api?username=yogendra-08&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&hide=contribs&hide_rank=true)
+
 ---
 
 
@@ -290,6 +303,7 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>  
+
 
 
 
