@@ -1,7 +1,5 @@
+![Banner](https://github.com/yogendra-08/yogendra-08/blob/main/banner.png)
 
-
-<h1 align="center">Hi 👋, I'm Yogendra Bhange</h1>
-<h3 align="center">An IT student building real-world projects with code.</h3>
 
 <p align="center">
   <a href="mailto:yogendrabhange@gmail.com" target="_blank">
