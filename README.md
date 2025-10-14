@@ -27,14 +27,55 @@
 
 ---
 
-## 🏆 GitHub Special Achievements
+## 🏆 GitHub Special Achievements  
 
-<table align="center"> <tr> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" /><br /> <b>Pair Extraordinaire</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" /><br /> <b>YOLO</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" /><br /> <b>Pull Shark</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" /><br /> <b>Quickdraw</b> </td> <td align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100" /><br /> <b>Galaxy Brain</b> </td>
-   <td align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" /><br />
+      <b>Pair Extraordinaire</b>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" /><br />
+      <b>YOLO</b>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" /><br />
+      <b>Pull Shark</b>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" /><br />
+      <b>Quickdraw</b>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100" /><br />
+      <b>Galaxy Brain</b>
+    </td>
+    <td align="center">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="100" /><br />
       <b>Starstruck</b>
-    </td></tr> </table> <p align="center"><i>Unique GitHub badges unlocked through contribution, collaboration, and speed! ⚡</i></p>
+    </td>
+  </tr>
+</table>
 
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png" width="120" /><br />
+      <b>Pair Extraordinaire (Level 3 – Silver)</b>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="120" /><br />
+      <b>Pull Shark (Level 2 – Bronze)</b>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>✨ Unique GitHub badges unlocked through collaboration, creativity, and consistent contribution! ⚡</i>
+</p>
 
 ---
 
@@ -289,5 +330,4 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>  
-
 
