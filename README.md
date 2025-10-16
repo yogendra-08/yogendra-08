@@ -70,6 +70,10 @@
       <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png" width="90" /><br />
       <b>Galaxy Brain (Silver)</b>
     </td>
+     <td align="center" width="140" height="140">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="90" /><br />
+      <b>Galaxy Brain (Gold)</b>
+    </td>
     <td align="center" width="140" height="140">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="90" /><br />
       <b>Pair Extraordinaire (Bronze)</b>
