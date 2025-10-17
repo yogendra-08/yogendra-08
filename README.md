@@ -202,7 +202,7 @@
 </p>
 
 
-![Profile Stars](https://github-readme-stats.vercel.app/api?username=yogendra-08&show_icons=true&custom_title=My%20GitHub%20Stats&include_all_commits=true&&hide=contribs&hide_rank=true&v=1)
+![Profile Stars](https://github-readme-stats.vercel.app/api?username=yogendra-08&show_icons=true&custom_title=My%20GitHub%20Stats&include_all_commits=true&&hide=contribs&hide_rank=true&v=2)
 
 
 ---
