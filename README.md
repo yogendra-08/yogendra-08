@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Stars](https://custom-icon-badges.demolab.com/github/stars/yogendra-08?color=gold&logo=star&style=for-the-badge&label=Profile%20Stars)
+![Stars](https://custom-icon-badges.demolab.com/github/stars/yogendra-08?color=gold&logo=star&style=for-the-badge&label=Profile%20Stars&v=1)
 ![Profile views](https://img.shields.io/badge/Profile%20Views-408-brightgreen?style=for-the-badge)
 
 
@@ -239,7 +239,8 @@ _Earning milestones as I contribute and grow with 💻 & ❤️
 </p>
 
 
-![GitHub Stars](https://github-readme-stats.vercel.app/api?username=yogendra-08&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&hide=contribs&hide_rank=true)
+![Profile Stars](https://github-readme-stats.vercel.app/api?username=yogendra-08&show_icons=true&custom_title=My%20GitHub%20Stats&include_all_commits=true&&hide=contribs&hide_rank=true&v=1)
+
 
 ---
 
