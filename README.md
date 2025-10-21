@@ -62,6 +62,10 @@
       <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="90" /><br />
       <b>Pull Shark (Bronze)</b>
     </td>
+     <td align="center" width="150" height="150">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" width="90" /><br />
+      <b>Pull Shark (silver)</b>
+    </td>
     <td align="center" width="150" height="150">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="90" /><br />
       <b>Pair Extraordinaire (Bronze)</b>
@@ -70,7 +74,9 @@
       <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png" width="90" /><br />
       <b>Pair Extraordinaire (Silver)</b>
     </td>
-    <td align="center" width="150" height="150">
+  </tr>
+  <tr>
+      <td align="center" width="150" height="150">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="90" /><br />
       <b>Galaxy Brain (Bronze)</b>
     </td>
