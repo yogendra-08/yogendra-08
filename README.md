@@ -53,7 +53,7 @@
 
 <p align="center">
   <b>Leveling up on GitHub!</b><br />
-  <i>Every badge tells a chapter of my open-source adventures 🚀</i>
+  <i>Every badge tells a chapter of my adventures 🚀</i>
 </p>
 
 <!--
