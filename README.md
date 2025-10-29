@@ -26,7 +26,37 @@
 </div>
 
 ---
+## 🏆 My GitHub Achievements (2025)
 
+<p align="center">
+  <!-- Starstruck -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="100" alt="Starstruck Default" title="Starstruck Default" />
+  <!-- Quickdraw -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw" title="Quickdraw" />
+  <!-- YOLO -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO" title="YOLO" />
+  <!-- Pair Extraordinaire -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" alt="Pair Extraordinaire Default" title="Pair Extraordinaire Default" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="100" alt="Pair Extraordinaire Bronze" title="Pair Extraordinaire Bronze" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png" width="100" alt="Pair Extraordinaire Silver" title="Pair Extraordinaire Silver" />
+   <!-- Pull Shark -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Default" title="Pull Shark Default" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="100" alt="Pull Shark Bronze" title="Pull Shark Bronze" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" width="100" alt="Pull Shark Silver" title="Pull Shark Silver" />
+  <!-- Galaxy Brain -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100" alt="Galaxy Brain Default" title="Galaxy Brain Default" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="100" alt="Galaxy Brain Bronze" title="Galaxy Brain Bronze" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png" width="100" alt="Galaxy Brain Silver" title="Galaxy Brain Silver" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="100" alt="Galaxy Brain Gold" title="Galaxy Brain Gold" />
+
+  </p>
+
+<p align="center">
+  <b>Leveling up on GitHub!</b><br />
+  <i>Every badge tells a chapter of my open-source adventures 🚀</i>
+</p>
+
+<!--
 ## 🏆 GitHub Special Achievements  
 
 <table align="center" style="table-layout: fixed; width: 100%;">
@@ -90,6 +120,7 @@
     </td>
   </tr>
 </table>
+-->
   
 
 
