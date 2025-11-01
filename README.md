@@ -131,7 +131,7 @@
 
 ## 💼 Tech Stack
 
-
+<!--
 ### 👨‍💻 Languages  
 <table>
   <tr>
@@ -226,6 +226,8 @@
     </td>
      </tr>
 </table>
+
+-->
 
 
 ---
