@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Stars](https://custom-icon-badges.demolab.com/github/stars/yogendra-08?color=gold&logo=star&style=for-the-badge&label=Profile%20Stars&v=5)
+![Stars](https://custom-icon-badges.demolab.com/github/stars/yogendra-08?color=gold&logo=star&style=for-the-badge&label=Profile%20Stars&v=6)
 ![Profile views](https://img.shields.io/badge/Profile%20Views-411-brightgreen?style=for-the-badge)
 
 
@@ -276,7 +276,7 @@
 </p>
 
 
-![Profile Stars](https://github-readme-stats.vercel.app/api?username=yogendra-08&show_icons=true&custom_title=My%20GitHub%20Stats&include_all_commits=true&&hide=contribs&hide_rank=true&v=4)
+![Profile Stars](https://github-readme-stats.vercel.app/api?username=yogendra-08&show_icons=true&custom_title=My%20GitHub%20Stats&include_all_commits=true&&hide=contribs&hide_rank=true&v=5)
 
 
 ---
