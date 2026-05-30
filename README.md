@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Stars](https://custom-icon-badges.demolab.com/github/stars/yogendra-08?color=gold&logo=star&style=for-the-badge&label=Profile%20Stars&v=11)
+![Stars](https://custom-icon-badges.demolab.com/github/stars/yogendra-08?color=gold&logo=star&style=for-the-badge&label=Profile%20Stars&v=12)
 ![Profile views](https://img.shields.io/badge/Profile%20Views-4,748-brightgreen?style=for-the-badge)
 
 
