@@ -409,19 +409,28 @@
 
 ---
 
-### 📬 Connect With Me
 
-- 📧 Email: [yogendrabhange@gmail.com](mailto:yogendrabhange@gmail.com)  
-- 🌐 Portfolio: [https://yogedra-portfolio.netlify.app/](https://yogedra-portfolio.netlify.app/)  
-- 🔗 GitHub: [yogendra-08](https://github.com/yogendra-08)  
-- 💼 LinkedIn: [Yogendra Bhange](https://www.linkedin.com/in/yogendra-bhange)
+## 🏢 Organization
+
+<div align="center">
+
+[![Error-labs7](https://img.shields.io/badge/Error--labs7-Community%20%7C%20Innovation%20%7C%20Open%20Source-302b63?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Error-labs7)
+
+💻 A developer collective building innovative tools and experiments.
+
+</div>
 
 ---
 
+## 📬 Let's Connect
 
-### 🏢 My Organization
+<div align="center">
 
-💻 I'm also a contributor and owner at **[Error-labs7](https://github.com/Error-labs7)** — a developer community working on innovative projects and experiments.
+| 📧 Email | 🌐 Portfolio | 🐙 GitHub | 💼 LinkedIn |
+|---|---|---|---|
+| [yogendrabhange@gmail.com](mailto:yogendrabhange@gmail.com) | [yogedra-portfolio.netlify.app](https://yogedra-portfolio.netlify.app/) | [yogendra-08](https://github.com/yogendra-08) | [Yogendra Bhange](https://www.linkedin.com/in/yogendra-bhange) |
+
+</div>
 
 ---
 
