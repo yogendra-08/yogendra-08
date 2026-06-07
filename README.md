@@ -44,6 +44,7 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire Default" title="Pair Extraordinaire Default" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="90" alt="Pair Extraordinaire Bronze" title="Pair Extraordinaire Bronze" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png" width="90" alt="Pair Extraordinaire Silver" title="Pair Extraordinaire Silver" />
+   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="90" alt="Pair Extraordinaire Gold" title="Pair Extraordinaire Gold" />
    <!-- Pull Shark -->
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark Default" title="Pull Shark Default" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="90" alt="Pull Shark Bronze" title="Pull Shark Bronze" />
