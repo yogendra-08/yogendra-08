@@ -1,4 +1,9 @@
-![Banner](https://github.com/yogendra-08/yogendra-08/blob/main/banner.png)
+<!-- ![Banner](https://github.com/yogendra-08/yogendra-08/blob/main/banner.png) -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yogendra%20Bhange&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=60&descSize=16&descColor=a78bfa" />
+
+</div>
 
 
 <p align="center">
