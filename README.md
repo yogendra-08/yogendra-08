@@ -300,7 +300,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yogendra-08&theme=transparent&show_icons=true&hide_border=true&hide_rank=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-08&theme=transparent&hide_border=true" />
     </td>
   </tr>
 </table>
