@@ -120,7 +120,29 @@
 ---
 
 
+## 💼 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,html,css,tailwind,react&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,django,firebase,mysql,git,github,netlify,vercel,supabase,figma&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,linux,ubuntu,githubactions,replit&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+
+
+<!--
 ## 💼 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -154,7 +176,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-
+-->
 
 
 
