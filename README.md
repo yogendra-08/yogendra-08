@@ -142,6 +142,12 @@
 
 ---
 
+## 🎓 Certifications
+
+[![Introduction to Generative AI](https://img.shields.io/badge/Introduction_to_Generative_AI-Duke_University-blue?style=for-the-badge)](https://coursera.org/share/2c948e9a9d5e5ce477596b9bbeab39ad) [![Operationalizing LLMs on Azure](https://img.shields.io/badge/Operationalizing_LLMS_on_Azure-Duke_University-green?style=for-the-badge)](https://coursera.org/share/fe12aacf778971d5e6a56e8edba37505)
+
+---
+
 
 ## 💼 Tech Stack
 
