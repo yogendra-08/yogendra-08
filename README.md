@@ -144,7 +144,8 @@
 
 ## 🎓 Certifications
 
-[![Introduction to Generative AI](https://img.shields.io/badge/Introduction_to_Generative_AI-Duke_University-blue?style=for-the-badge)](https://coursera.org/share/2c948e9a9d5e5ce477596b9bbeab39ad) [![Operationalizing LLMs on Azure](https://img.shields.io/badge/Operationalizing_LLMS_on_Azure-Duke_University-green?style=for-the-badge)](https://coursera.org/share/fe12aacf778971d5e6a56e8edba37505)
+[![Introduction to Generative AI](https://img.shields.io/badge/Introduction_to_Generative_AI-Duke_University-blue?style=for-the-badge)](https://coursera.org/share/2c948e9a9d5e5ce477596b9bbeab39ad) [![Operationalizing LLMs on Azure](https://img.shields.io/badge/Operationalizing_LLMS_on_Azure-Duke_University-green?style=for-the-badge)](https://coursera.org/share/fe12aacf778971d5e6a56e8edba37505) [![The Arduino Platform and C Programming](https://img.shields.io/badge/The_Arduino_Platform_and_C_Programming-UCI-orange?style=for-the-badge)](https://coursera.org/share/14598172ffcd345f12ca57ac0ab812c8)
+
 
 ---
 
