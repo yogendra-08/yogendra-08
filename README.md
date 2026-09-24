@@ -144,9 +144,11 @@
 
 ## 🎓 Certifications
 
-[![Introduction to Generative AI](https://img.shields.io/badge/Introduction_to_Generative_AI-Duke_University-blue?style=for-the-badge)](https://coursera.org/share/2c948e9a9d5e5ce477596b9bbeab39ad) [![Operationalizing LLMs on Azure](https://img.shields.io/badge/Operationalizing_LLMS_on_Azure-Duke_University-green?style=for-the-badge)](https://coursera.org/share/fe12aacf778971d5e6a56e8edba37505) [![The Arduino Platform and C Programming](https://img.shields.io/badge/The_Arduino_Platform_and_C_Programming-UCI-orange?style=for-the-badge)](https://coursera.org/share/14598172ffcd345f12ca57ac0ab812c8)
-[![Mastering Hardware Protocols with ESP32 and Arduinos](https://img.shields.io/badge/Mastering_Hardware_Protocols_with_ESP32_and_Arduinos-Packt-06B6D4?style=for-the-badge)](https://coursera.org/share/563cbac8928c95a82ea5c0859d69dbcf)
-[![Fundamentals of Robotics & Industrial Automation](https://img.shields.io/badge/Fundamentals_of_Robotics_%26_Industrial_Automation-L%26T_EduTech-14B8A6?style=for-the-badge)](https://coursera.org/share/e2075afa62b76d234ef78bdcb1b380a0)
+[![Introduction to Generative AI](https://img.shields.io/badge/Introduction_to_Generative_AI-Duke_University-blue?style=for-the-badge)](https://coursera.org/share/2c948e9a9d5e5ce477596b9bbeab39ad) [![Operationalizing LLMs on Azure](https://img.shields.io/badge/Operationalizing_LLMS_on_Azure-Duke_University-green?style=for-the-badge)](https://coursera.org/share/fe12aacf778971d5e6a56e8edba37505)
+
+[![Rust Fundamentals](https://img.shields.io/badge/Rust_Fundamentals-Duke_University-8B5CF6?style=for-the-badge)](https://coursera.org/share/7292d68b50fb811ac2696bb869505831) [![The Arduino Platform and C Programming](https://img.shields.io/badge/The_Arduino_Platform_and_C_Programming-UCI-orange?style=for-the-badge)](https://coursera.org/share/14598172ffcd345f12ca57ac0ab812c8)
+
+[![Mastering Hardware Protocols with ESP32 and Arduinos](https://img.shields.io/badge/Mastering_Hardware_Protocols_with_ESP32_and_Arduinos-Packt-06B6D4?style=for-the-badge)](https://coursera.org/share/563cbac8928c95a82ea5c0859d69dbcf) [![Fundamentals of Robotics & Industrial Automation](https://img.shields.io/badge/Fundamentals_of_Robotics_%26_Industrial_Automation-L%26T_EduTech-14B8A6?style=for-the-badge)](https://coursera.org/share/e2075afa62b76d234ef78bdcb1b380a0)
 
 
 ---
