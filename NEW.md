@@ -1,3 +1,21 @@
+## 🏆 Google Cloud Skill Badge
+
+<p align="center">
+  <a href="https://www.credly.com/badges/ff3811d8-a0bb-4f18-b1a4-68f3aedeb989/public_url">
+    <img src="https://images.credly.com/size/220x220/images/0586d038-b371-48e0-ade3-e680a080a85a/image.png" width="110" alt="Google Cloud Skill Badge"/>
+  </a>
+  <br/>
+  <b>Build Infrastructure with Terraform on Google Cloud</b>
+  <br/>
+  <sub>Google Cloud · Skill Badge</sub>
+  <br/>
+  <a href="https://www.credly.com/badges/ff3811d8-a0bb-4f18-b1a4-68f3aedeb989/public_url">View Credential ↗</a>
+</p>
+
+
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Hey,%20I'm%20Yogendra%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=17&descColor=a78bfa" />
