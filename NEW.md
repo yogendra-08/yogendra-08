@@ -1,3 +1,11 @@
+
+## 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yogendra-08?theme=dark)](https://leetcode.com/u/yogendra-08/)
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/yogendra-08?theme=dark&ext=heatmap)
+
+
 ## 🏆 Google Cloud Skill Badge
 
 <p align="center">
