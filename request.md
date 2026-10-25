@@ -17,4 +17,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogendra-08&show_icons=true&show=prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true)
 
-[![Merged PRs](https://img.shields.io/github/issues-pr-closed/yogendra-08/REPO_NAME?label=Merged%20PRs)](https://github.com/yogendra-08?tab=pulls)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogendra-08&show_icons=true&show=prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true)
