@@ -25,7 +25,7 @@
 <div align="center">
 
 ![Stars](https://custom-icon-badges.demolab.com/github/stars/yogendra-08?color=gold&logo=star&style=for-the-badge&label=Profile%20Stars&v=19)
-![Profile views](https://img.shields.io/badge/Profile%20Views-4,893-brightgreen?style=for-the-badge)
+![Profile views](https://img.shields.io/badge/Profile%20Views-5,462-brightgreen?style=for-the-badge)
 
 
 </div>
